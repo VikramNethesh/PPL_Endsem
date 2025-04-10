@@ -1,2 +1,2 @@
 # PPL_Endsem
-Codes for scala and haskell
+Codes for scala, haskel and java.
